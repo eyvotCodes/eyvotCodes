@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello There! 👋
 
-<!--
-**eyvotCodes/eyvotCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer.</br>
+Over the years, I've successfully developed and managed projects of varying scales and complexity.
 
-Here are some ideas to get you started:
+Skills</br>
+Software development, project management, software design, problem solving, client communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies</br>
+Code, learn new things, video games, coffee, fragrances
+
+Some Tools</br>
+Java, JS, Python, Go, React, Git
+
+</br>
+
+👤 Website: https://eyvot.com/</br>
+✍️ Blog: https://blog.eyvot.com/</br>
+📬 Email: contact@eyvot.com
