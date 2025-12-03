@@ -4,13 +4,16 @@ I'm a Software Developer.</br>
 Over the years, I've successfully developed and managed projects of varying scales and complexity.
 
 Skills</br>
-Software development, project management, software design, problem solving, client communication
+Software Development, Project Management, System Design, Problem Solving, Client Communication.
 
 Hobbies</br>
-Code, learn new things, video games, coffee, fragrances
+Code, learn new things, video games, coffee, fragrances.
 
-Some Tools</br>
-Java, JS, Python, Go, React, Git
+Main Tools</br>
+Java, Spring Boot, React.
+
+Other Tools</br>
+JS, Python, Go, C#.
 
 </br>
 
